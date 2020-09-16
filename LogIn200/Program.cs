@@ -24,7 +24,7 @@ namespace LogIn200
             view.SetController(controller);
             
             Application.Run(view);
-            //
+            
         }
     }
 }
